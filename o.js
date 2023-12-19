@@ -1,2 +1,2 @@
-const form = promt("what are u");
+const form = prompt("what are u");
 console.log(form);
