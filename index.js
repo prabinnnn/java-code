@@ -1,9 +1,9 @@
-console log("hello world");
+console.log("hello world");
 
-var person ="prabin";
+var person = "prabin";
 // let allow u to reassign variable
-let person1 ="ram";
-person1="prabin";
+let person1 = "ram";
+person1 = "prabin";
 // not allow to change variable
 //const person 2="shyam";
-console log("person1");
+console.log("person1");
